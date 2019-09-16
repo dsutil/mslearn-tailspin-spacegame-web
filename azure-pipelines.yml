@@ -1,6 +1,6 @@
 pool:
-  vmImage: 'Ubuntu-16.04'Hfw2TQqLbNL2rtypS4KVQDZep
-demands:
+  vmImage: 'Ubuntu-16.04'
+ demands:
     - npm
 
 steps:
